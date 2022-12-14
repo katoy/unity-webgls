@@ -5,7 +5,7 @@
 ## DEMO
 
 - <https://katoy.github.io/unity-webgls/Roulette_webgl/index.html>
-- <https://katoy.github.io/unity-webgls/SwipeCar-webgl/inde.html>
-- <https://katoy.github.io/unity-webgls/ClumbCloud-ebgl/index.html>
+- <https://katoy.github.io/unity-webgls/SwipeCar-wwebgl/index.html>
+- <https://katoy.github.io/unity-webgls/ClumbCloud-webgl/index.html>
 - <https://katoy.github.io/unity-webgls/Igaguri-webgl/index.html>
 - <https://katoy.github.io/unity-webgls/AppleCatch-webgl/index.html>
